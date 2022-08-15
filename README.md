@@ -15,7 +15,7 @@ Install the package through [Composer](http://getcomposer.org/).
 
 Run the Composer require command from the Terminal:
 
-    composer create-project xxxxxx
+    composer require phdomiciano/tripsmanager
 
 Create a file sqlite in folder "database" or other DB you wish (For others, configure ".env" file):
 
