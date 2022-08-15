@@ -1,7 +1,7 @@
 {
     "name": "phdomiciano/tripsmanager",
     "type": "project",
-    "description": "This is a simple CRUD of races list with Laravel and that use the transactions by JSON.",
+    "description": "This is a simple CRUD of trips list with Laravel and that use the transactions by JSON.",
     "keywords": ["framework", "laravel", "tripslist", "CRUD", "tripsmanager"],
     "license": "MIT",
     "require": {
